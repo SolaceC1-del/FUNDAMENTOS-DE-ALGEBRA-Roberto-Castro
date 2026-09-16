@@ -1,5 +1,8 @@
 # FUNDAMENTOS-DE-ALGEBRA-Roberto-Castro
 
+<img width="1200" height="1600" alt="ej_19-24" src="https://github.com/user-attachments/assets/f9a24130-12c0-4573-a1c7-2ca01447b5db" />
+
+
 25)
 (-7 - 4i) - (2 + i)
 = -7 - 4i - 2 - i
@@ -261,286 +264,306 @@ y = 1·sen 30° = 1/2
 Forma rectangular:
 √3/2 + 1/2 i
 
-62) 2(cos 60° + i sen 60°)
-r = 2, θ = 60°
-x = 2·cos 60° = 2·(1/2) = 1
-y = 2·sen 60° = 2·(√3/2) = √3
-Forma rectangular:
-1 + √3 i
+## 62)
 
-    *62)*
+2(cos 60° + i sen 60°)
 
-$$
-\begin{array}{l c l}
-2(cos60°+isen60°) \\
-\\
-a=(2)(cos60°)=1 \\
-b=(2)(sen60°)=1.73 \\
-\\
-z=1+1.73i \\
-\end{array}
-$$
+a = 2 cos 60° = 1
 
-*63)*
+b = 2 sen 60° = √3 ≈ 1.73
 
-$$
-\begin{array}{l c l}
-1.5(cos90°+isen90°) \\
-\\
-a=(1.5)(cos90°)=0 \\
-b=(1.5)(sen90°)=1.5 \\
-\\
-z=1.5i \\
-\end{array}
-$$
+z = 1 + 1.73i
 
-*64)*
+---
 
-$$
-\begin{array}{l c l}
-2.5(cos120°+isen120°) \\
-\\
-a=(2.5)(cos120°)=-1.25 \\
-b=(2.5)(sen120°)=2.16 \\
-\\
-z=-1.25+2.16i \\
-\end{array}
-$$
+## 63)
 
-*65)*
+1.5(cos 90° + i sen 90°)
 
-$$
-\begin{array}{l c l}
-4(cos135°+isen135°) \\
-\\
-a=(4)(cos135°)=-2.82 \\
-b=(4)(sen135°)=2.82 \\
-\\
-z=-2.82+2.82i \\
-\end{array}
-$$
+a = 1.5 cos 90° = 0
 
-*66)*
+b = 1.5 sen 90° = 1.5
 
-$$
-\begin{array}{l c l}
-3(cos180°+isen180°) \\
-\\
-a=(3)(cos180°)=-3 \\
-b=(3)(sen180°)=0 \\
-\\
-z=-3 \\
-\end{array}
-$$
+z = 1.5i
 
-*Obten TODASlas raices de los siguentes complejos*
+---
 
-*67)*
+## 64)
 
-$$
-\begin{array}{l c l}
-\text{2 raices cuadradas de:}\ 4(cos30°+isen30°) \\
-\\
-1^{ra}\ \text{raiz cuadrada:} \\
-\\
-\sqrt{4}=2 & cos \frac{30°+360°(0)}{2} & sen \frac{30°+360°(0)}{2} \\
-\\
-& =cos15° & =sen15° \\
-\\
-2(cos15°+isen15°) \\
-\\
-\\
-2^{da}\ \text{raiz cuadrada:} \\
-\\
-\sqrt{4}=2 & cos \frac{30°+360°(1)}{2} & sen \frac{30°+360°(1)}{2} \\
-\\
-& =cos195° & =sen195° \\
-\\
-2(cos195°+isen195°) \\
-\end{array}
-$$
+2.5(cos 120° + i sen 120°)
 
-*68)*
+a = 2.5 cos 120° = -1.25
 
-$$
-\begin{array}{l c l}
-\text{2 raices cuadradas de:}\ 3(cos90°+isen90°) \\
-\\
-1^{ra}\ \text{raiz cuadrada:} \\
-\\
-\sqrt{3}=1.73 & cos \frac{90°+360°(0)}{2} & sen \frac{90°+360°(0)}{2} \\
-\\
-& =cos45° & =sen45° \\
-\\
-1.73(cos45°+isen45°) \\
-\\
-\\
-2^{da}\ \text{raiz cuadrada:} \\
-\\
-\sqrt{3}=1.73 & cos \frac{90°+360°(1)}{2} & sen \frac{90°+360°(1)}{2} \\
-\\
-& =cos225° & =sen225° \\
-\\
-1.73(cos225°+isen225°) \\
-\end{array}
-$$
+b = 2.5 sen 120° ≈ 2.16
 
-*69)*
+z = -1.25 + 2.16i
 
-3 raíces cúbicas de $-4\sqrt2$ + $4\sqrt2$
+---
 
-$$r= \sqrt{(-4\sqrt2)^{2}+(4\sqrt2)^{2}} = \sqrt{32+32} = \sqrt{64} = 8$$
-$\Theta$ = $\tan^{-1}$ ($\frac{4\sqrt2}{-4\sqrt2}$) = 45°
-Por lo tanto, 180° -45°= 135°
+## 65)
 
-Z= 8(cos 135° + i sen 135°)  n= 3  K= 0, 1, 2  r= $3\sqrt8$ = 2
+4(cos 135° + i sen 135°)
 
-1era raíz cuadrada; K=0:
-$$cos \frac{135 + 360 \cdot 0}{3} = cos \frac{135}{3} = cos 45°$$
-$$sen \frac{135 + 360 \cdot 0}{3} = sen \frac{135}{3} = sen 45°$$
+a = 4 cos 135° = -2.82
 
-Respuesta= 2(cos 45° + i sen 45°)
+b = 4 sen 135° = 2.82
 
-2da raíz cuadrada; K=1:
-$$cos \frac{135 + 360 \cdot 1}{3} = cos \frac{495}{3} = cos 165°$$
-$$sen \frac{135 + 360 \cdot 1}{3} = sen \frac{495}{3} = sen 165°$$
+z = -2.82 + 2.82i
 
-Respuesta=2(cos 165° + i sen 165°)
+---
 
-3er raíz cuadrada; K=2:
-$$cos \frac{135 + 360 \cdot 2}{3} = cos \frac{855}{3} = cos 285°$$
-$$sen \frac{135 + 360 \cdot 2}{3} = sen \frac{855}{3} = sen 285°$$
+## 66)
 
-Respuesta= 2(cos 285° + i sen 285°)
+3(cos 180° + i sen 180°)
 
-*70)*
+a = 3 cos 180° = -3
 
-3 raíces cúbicas de $\frac{-27}{8}$
+b = 3 sen 180° = 0
 
-$$r= \sqrt{(\frac{-27}{8})^{2}+(0)^{2}} = {\frac{27}{8}}$$
-$\Theta$ = $\tan^{-1}$ ($\frac{0}{\frac{-27}{8}}$) = 0°
-Por lo tanto, 180° + 0° = 180°
+z = -3
 
-Z= $\frac{-27}{8}$(cos 180° + i sen 180°)  n= 3  K= 0, 1, 2  r= $3\sqrt\frac{-27}{8}$ = $\frac{3}{2}$
+---
 
-1eera raíz cuadrada; K=0:
-$$cos \frac{180 + 360 \cdot 0}{3} = cos \frac{180}{3} = cos 60°$$
-$$sen \frac{180 + 360 \cdot 0}{3} = sen \frac{180}{3} = sen 60°$$
+## Obtén todas las raíces de los siguientes complejos
 
-Respuesta= $\frac{3}{2}$(cos 60° + i sen 60°)
+### 67)
 
-2da raíz cuadrada; K=1:
-$$cos \frac{180 + 360 \cdot 1}{3} = cos \frac{540}{3} = cos 180°$$
-$$sen \frac{180 + 360 \cdot 1}{3} = sen \frac{540}{3} = sen 180°$$
+2 raíces cuadradas de:
 
-Respuesta= $\frac{3}{2}$(cos 180° + i sen 180°)
+4(cos 30° + i sen 30°)
 
-3er raíz cuadrada; K=2:
-$$cos \frac{180 + 360 \cdot 2}{3} = cos \frac{900}{3} = cos 300°$$
-$$sen \frac{180 + 360 \cdot 2}{3} = sen \frac{900}{3} = sen 300°$$
+1.ª raíz cuadrada:
 
-Respuesta= $\frac{3}{2}$(cos 300° + i sen 300°)
+√4 = 2
 
-*71)*
+cos((30° + 360°(0))/2) = cos 15°
 
-5 raíces de -32 i
+sen((30° + 360°(0))/2) = sen 15°
 
-$$r= \sqrt{(0)^{2}+(-32)^{2}} = \sqrt{1024} = 32$$
-$\Theta$ = 270° 
-Z= 32(cos 270° + i sen 270°)  n= 5  K= 0, 1, 2, 3, 4  r= $5\sqrt32$ = 2
+2(cos 15° + i sen 15°)
 
-Cuando K=0:
-$$cos \frac{270 + 360 \cdot 0}{5} = cos \frac{270}{5} = cos 54°$$
-$$sen \frac{270 + 360 \cdot 0}{5} = sen \frac{270}{5} = sen 54°$$
+2.ª raíz cuadrada:
 
-Respuesta= 2(cos 54° + i sen 54°)
+√4 = 2
 
-Cuando K=1:
-$$cos \frac{270 + 360 \cdot 1}{5} = cos \frac{630}{5} = cos 126°$$
-$$sen \frac{270 + 360 \cdot 1}{5} = sen \frac{630}{5} = sen 126°$$
+cos((30° + 360°(1))/2) = cos 195°
 
-Respuesta= 2(cos 126° + i sen 126°)
+sen((30° + 360°(1))/2) = sen 195°
 
-Cuando K=2:
-$$cos \frac{270 + 360 \cdot 2}{5} = cos \frac{990}{5} = cos 198°$$
-$$sen \frac{270 + 360 \cdot 2}{5} = sen \frac{990}{5} = sen 198°$$
+2(cos 195° + i sen 195°)
 
-Respuesta= 2(cos 198° + i sen 198°)
+---
 
-Cuando K=3:
-$$cos \frac{270 + 360 \cdot 3}{5} = cos \frac{1350}{5} = cos 270°$$
-$$sen \frac{270 + 360 \cdot 3}{5} = sen \frac{1350}{5} = sen 270°$$
+### 68)
 
-Respuesta= 2(cos 270° + i sen 270°)
+2 raíces cuadradas de:
 
-Cuando K=4:
-$$cos \frac{270 + 360 \cdot 4}{5} = cos \frac{1710}{5} = cos 342°$$
-$$sen \frac{270 + 360 \cdot 4}{5} = sen \frac{1710}{5} = sen 342°$$
+3(cos 90° + i sen 90°)
 
-Respuesta= 2(cos 342° + i sen 342°)
+1.ª raíz cuadrada:
 
-*72)*
+√3 = √3
 
-$$
-\begin{array}{l c l}
-\text{6 raices de:}\ 729 \\
-\\
-r= \sqrt{(729)^2+(0)^2} & & θ=tan^{-1}(0/ 729) \\
-r= 729 & & θ=0° \\
-\\
-\text{polar:}\ 729(cos0°+isen0°) \\
-\\
-1^{ra}\ \text{raiz:} \\
-\\
-\sqrt{729}=27 & cos \frac{0°+360°(0)}{6} & sen \frac{0°+360°(0)}{6} \\
-\\
-& =cos0° & =sen0° \\
-\\
-27(cos0°+isen60°) \\
-\\
-\\
-2^{da}\ \text{raiz:} \\
-\\
-\sqrt{729}=27 & cos \frac{0°+360°(1)}{6} & sen \frac{0°+360°(1)}{6} \\
-\\
-& =cos60° & =sen60° \\
-\\
-27(cos60°+isen60°) \\
-\\
-\\
-3^{ra}\ \text{raiz:} \\
-\\
-\sqrt{729}=27 & cos \frac{0°+360°(2)}{6} & sen \frac{0°+360°(2)}{6} \\
-\\
-& =cos120° & =sen120° \\
-\\
-27(cos120°+isen120°) \\
-\\
-\\
-4^{ta}\ \text{raiz:} \\
-\\
-\sqrt{729}=27 & cos \frac{0°+360°(3)}{6} & sen \frac{0°+360°(3)}{6} \\
-\\
-& =cos180° & =sen180° \\
-\\
-27(cos180°+isen180°) \\
-\\
-\\
-5^{ta}\ \text{raiz:} \\
-\\
-\sqrt{729}=27 & cos \frac{0°+360°(4)}{6} & sen \frac{0°+360°(4)}{6} \\
-\\
-& =cos240° & =sen240° \\
-\\
-27(cos240°+isen240°) \\
-\\
-\\
-6^{ta}\ \text{raiz:} \\
-\\
-\sqrt{729}=27 & cos \frac{0°+360°(5)}{6} & sen \frac{0°+360°(5)}{6} \\
-\\
-& =cos300° & =sen300° \\
-\\
-27(cos300°+isen300°) \\
-\end{array}
-$$
+cos((90° + 360°(0))/2) = cos 45°
+
+sen((90° + 360°(0))/2) = sen 45°
+
+√3(cos 45° + i sen 45°)
+
+2.ª raíz cuadrada:
+
+√3 = √3
+
+cos((90° + 360°(1))/2) = cos 225°
+
+sen((90° + 360°(1))/2) = sen 225°
+
+√3(cos 225° + i sen 225°)
+
+---
+
+### 69)
+
+3 raíces cúbicas de:
+
+-4√2 + 4√2 i
+
+r = √((-4√2)² + (4√2)²)
+
+r = √(32 + 32) = √64 = 8
+
+θ = tan⁻¹(4√2 / -4√2) = 135°
+
+z = 8(cos 135° + i sen 135°)
+
+n = 3, k = 0, 1, 2
+
+∛8 = 2
+
+1.ª raíz, k = 0:
+
+cos((135° + 360°(0))/3) = cos 45°
+
+sen((135° + 360°(0))/3) = sen 45°
+
+2(cos 45° + i sen 45°)
+
+2.ª raíz, k = 1:
+
+cos((135° + 360°(1))/3) = cos 165°
+
+sen((135° + 360°(1))/3) = sen 165°
+
+2(cos 165° + i sen 165°)
+
+3.ª raíz, k = 2:
+
+cos((135° + 360°(2))/3) = cos 285°
+
+sen((135° + 360°(2))/3) = sen 285°
+
+2(cos 285° + i sen 285°)
+
+---
+
+### 70)
+
+3 raíces cúbicas de:
+
+-27/8
+
+r = √((-27/8)² + 0²) = 27/8
+
+θ = tan⁻¹(0 / (-27/8)) = 180°
+
+z = (27/8)(cos 180° + i sen 180°)
+
+n = 3, k = 0, 1, 2
+
+∛(27/8) = 3/2
+
+1.ª raíz, k = 0:
+
+cos((180° + 360°(0))/3) = cos 60°
+
+sen((180° + 360°(0))/3) = sen 60°
+
+(3/2)(cos 60° + i sen 60°)
+
+2.ª raíz, k = 1:
+
+cos((180° + 360°(1))/3) = cos 180°
+
+sen((180° + 360°(1))/3) = sen 180°
+
+(3/2)(cos 180° + i sen 180°)
+
+3.ª raíz, k = 2:
+
+cos((180° + 360°(2))/3) = cos 300°
+
+sen((180° + 360°(2))/3) = sen 300°
+
+(3/2)(cos 300° + i sen 300°)
+
+---
+
+### 71)
+
+5 raíces de:
+
+-32i
+
+r = √(0² + (-32)²) = √1024 = 32
+
+θ = 270°
+
+z = 32(cos 270° + i sen 270°)
+
+n = 5, k = 0, 1, 2, 3, 4
+
+⁵√32 = 2
+
+Cuando k = 0:
+
+cos((270° + 360°(0))/5) = cos 54°
+
+sen((270° + 360°(0))/5) = sen 54°
+
+2(cos 54° + i sen 54°)
+
+Cuando k = 1:
+
+cos((270° + 360°(1))/5) = cos 126°
+
+sen((270° + 360°(1))/5) = sen 126°
+
+2(cos 126° + i sen 126°)
+
+Cuando k = 2:
+
+cos((270° + 360°(2))/5) = cos 198°
+
+sen((270° + 360°(2))/5) = sen 198°
+
+2(cos 198° + i sen 198°)
+
+Cuando k = 3:
+
+cos((270° + 360°(3))/5) = cos 270°
+
+sen((270° + 360°(3))/5) = sen 270°
+
+2(cos 270° + i sen 270°)
+
+Cuando k = 4:
+
+cos((270° + 360°(4))/5) = cos 342°
+
+sen((270° + 360°(4))/5) = sen 342°
+
+2(cos 342° + i sen 342°)
+
+---
+
+### 72)
+
+6 raíces de:
+
+729
+
+r = √(729² + 0²) = 729
+
+θ = tan⁻¹(0 / 729) = 0°
+
+z = 729(cos 0° + i sen 0°)
+
+n = 6, k = 0, 1, 2, 3, 4, 5
+
+⁶√729 = 3
+
+Nota: la raíz sexta de 729 es 3, no 27.
+
+1.ª raíz:
+
+3(cos 0° + i sen 0°)
+
+2.ª raíz:
+
+3(cos 60° + i sen 60°)
+
+3.ª raíz:
+
+3(cos 120° + i sen 120°)
+
+4.ª raíz:
+
+3(cos 180° + i sen 180°)
+
+5.ª raíz:
+
+3(cos 240° + i sen 240°)
+
+6.ª raíz:
+
+3(cos 300° + i sen 300°)
